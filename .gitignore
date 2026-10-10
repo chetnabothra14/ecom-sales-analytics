@@ -1,0 +1,10 @@
+﻿.venv/
+venv/
+data/
+*.csv
+*.xlsx
+*.pbix
+*.env
+*.log
+__pycache__/
+.ipynb_checkpoints/
